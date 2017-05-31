@@ -37,3 +37,5 @@ cmake-build-debug/
 # JetBrains IDE
 .idea/
 
+# Qt debug
+build-xml_parse_doc-*
